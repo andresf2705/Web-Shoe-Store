@@ -22,3 +22,7 @@ a{
     object-fit: contain; /* Ajuste del tamaño sin deformar */
 }
 
+.centrar {
+    text-align: left;
+    margin-top: 10px;
+    }
